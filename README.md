@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirmallowanshi
+- 👋 Hi, I’m Nirmal Lowanshi
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React
 - 📫 nirmallowanshi05@gmail.com
